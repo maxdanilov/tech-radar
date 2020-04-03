@@ -1,4 +1,4 @@
-ID,name,quadrant,ring,isNew,description
+id,name,quadrant,ring,isNew,description
 GCP,GCP,Platforms,Adopt,FALSE,<p>The main cloud provider we're using to host almost everything (for other stuff there's AWS)</p>
 GCP GKE,GCP GKE,Platforms,Adopt,FALSE,"<p>Hosting all Kubernetes projects, aside from Cawemo-related ones</p> "
 GCP CloudSQL,GCP CloudSQL,Platforms,Adopt,FALSE,
