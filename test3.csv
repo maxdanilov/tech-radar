@@ -1,0 +1,49 @@
+id,name,quadrant,ring,isNew,description
+GCP,GCP,Platforms,Adopt,FALSE,We always test stuff
+GCP GKE,GCP GKE,Platforms,Adopt,FALSE,We always test stuff
+GCP CloudSQL,GCP CloudSQL,Platforms,Adopt,FALSE,We always test stuff
+GCP Storage,GCP Storage,Platforms,Adopt,FALSE,We always test stuff
+GitHub,GitHub,Platforms,Adopt,FALSE,We always test stuff
+AWS,AWS,Platforms,Adopt,FALSE,We always test stuff
+AWS S3,AWS S3,Platforms,Adopt,FALSE,We always test stuff
+AWS EC2,AWS EC2,Platforms,Adopt,FALSE,We always test stuff
+AWS RDS,AWS RDS,Platforms,Adopt,FALSE,We always test stuff
+AWS ECS,AWS ECS,Platforms,Adopt,TRUE,We always test stuff
+GCP Data Studio,GCP Data Studio,Platforms,Trial,TRUE,We always test stuff
+GCP Big Query,GCP Big Query,Platforms,Trial,TRUE,We always test stuff
+Terraform Cloud,Terraform Cloud,Platforms,Assess,TRUE,We always test stuff
+AWS EKS,AWS EKS,Platforms,Assess,TRUE,We always test stuff
+Vault,Vault,Frameworks,Adopt,FALSE,We always test stuff
+Jenkins,Jenkins,Frameworks,Adopt,FALSE,We always test stuff
+ArgoCD,ArgoCD,Frameworks,Adopt,FALSE,We always test stuff
+Nexus,Nexus,Frameworks,Adopt,FALSE,We always test stuff
+Harbor,Harbor,Frameworks,Adopt,TRUE,We always test stuff
+Download Center,Download Center,Frameworks,Adopt,TRUE,We always test stuff
+Nginx,Nginx,Frameworks,Adopt,FALSE,We always test stuff
+OpenLDAP,OpenLDAP,Frameworks,Adopt,FALSE,We always test stuff
+Prometheus,Prometheus,Frameworks,Adopt,FALSE,We always test stuff
+Alert Manager,Alert Manager,Frameworks,Adopt,FALSE,We always test stuff
+Grafana,Grafana,Frameworks,Adopt,FALSE,We always test stuff
+Vouch,Vouch,Frameworks,Adopt,TRUE,We always test stuff
+Cert-manager,Cert-manager,Frameworks,Adopt,FALSE,We always test stuff
+Gitlab CI/CD,Gitlab CI/CD,Frameworks,Assess,TRUE,We always test stuff
+GitHub Actions,GitHub Actions,Frameworks,Assess,TRUE,We always test stuff
+Helm,Helm,Frameworks,Hold,FALSE,We always test stuff
+Python,Python,Languages,Adopt,FALSE,We always test stuff
+Golang,Golang,Languages,Adopt,FALSE,We always test stuff
+Shell,Shell,Languages,Adopt,FALSE,We always test stuff
+Groovy,Groovy,Languages,Adopt,FALSE,We always test stuff
+Kubernetes,Kubernetes,Languages,Adopt,FALSE,We always test stuff
+Terraform,Terraform,Languages,Adopt,FALSE,We always test stuff
+Pylint,Pylint,Tools,Adopt,TRUE,We always test stuff
+yamllint,yamllint,Tools,Adopt,TRUE,We always test stuff
+kubeval,kubeval,Tools,Adopt,TRUE,We always test stuff
+CodeNarc,CodeNarc,Tools,Adopt,TRUE,We always test stuff
+shfmt,shfmt,Tools,Adopt,TRUE,We always test stuff
+Shellcheck,Shellcheck,Tools,Adopt,TRUE,We always test stuff
+kubectx,kubectx,Tools,Adopt,FALSE,We always test stuff
+kubens,kubens,Tools,Adopt,FALSE,We always test stuff
+Kustomize,Kustomize,Tools,Adopt,FALSE,We always test stuff
+Atlantis,Atlantis,Tools,Assess,TRUE,We always test stuff
+terradiff,terradiff,Tools,Assess,TRUE,We always test stuff
+kops,kops,Tools,Hold,FALSE,We always test stuff
